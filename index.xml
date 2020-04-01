@@ -5,7 +5,7 @@
     <link>https://www.etb-rothenburg.ch/</link>
     <description>Recent content in Startseite on etb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <language>de-DE</language>
     <lastBuildDate>Sun, 22 Mar 2020 13:23:23 +0100</lastBuildDate>
     
 	<atom:link href="https://www.etb-rothenburg.ch/index.xml" rel="self" type="application/rss+xml" />
@@ -47,9 +47,9 @@ ETB Jost Furrer
       <pubDate>Mon, 30 Mar 2020 11:38:25 +0200</pubDate>
       
       <guid>https://www.etb-rothenburg.ch/landing/</guid>
-      <description>Wir sind ein Elektroingenieurbüro für Gewerbe, Industrie und Wohnen. Unsere Kompetenzen finden sich in der Planung von Starkstrom- und Schwachstromanlagen, von Beleuchtungs-, Erdungs- und Blitzschutzkonzepten sowie in der Konfiguration von KNX Installationsbus-Steuerungen.
-Wir beraten und lösen kundenspezifische Herausforderungen rund um die zukunftsorientierte Elektrifizierung. Die Mobilität von morgen oder die Nachfrage nach energieautarkem Wohnen, weckt grosses Interesse und bewegt uns an neuen Lösungen mitzugestalten.
-Neben den planerischen Dienstleistungen bietet wir auch periodische Kontrollen von Elektroinstallationen an.</description>
+      <description>Wir sind ein Elektroingenieurbüro im Bereich Gewerbe, Industrie und Wohnen. Unsere Kompetenzen liegen in der Beratung und Planung von Starkstrom- und Schwachstromanlagen. Wir machen Beleuchtungs-, Erdungs- und Blitzschutzkonzepte sowie KNX Installationsbus-Steuerungen.
+Die zukunftsorientierte Elektrifizierung gibt Raum für neue Ansätze. Wie sieht die Mobilität von morgen aus? Wie gross steigt die Nachfrage nach energieautarkem Wohnen? Wir finden Lösungen für kundenspezifische Herausforderungen.
+Neben den planerischen Tätigkeiten bieten wir auch periodische Kontrollen von Elektroinstallationen an.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@ CH-6023 Rothenburg
       
       <guid>https://www.etb-rothenburg.ch/services/future/</guid>
       <description>Die Welt verändert sich rasant. Es tauchen viele Fragen über die Technik von morgen auf. Dabei geht es meist um Systeme die mehrheitlich elektrisch funktionieren. Um vieles müssen wir uns heute Gedanken machen:
- Werde ich in Zukunft die Haustechnik über mein Smartphone steuern? Soll ich ein Bussystem einsetzen oder reicht für mich der konventionelle Schalter aus? Ist es für mich wichtig, dass ich den Strom aus meiner Photovoltaikanlage selber verbrauche?</description>
+ Will ich in Zukunft die Haustechnik über mein Smartphone steuern? Soll ich ein Bussystem einsetzen oder reicht für mich der konventionelle Schalter aus? Ist es für mich wichtig, dass ich den Strom aus meiner Photovoltaikanlage selber verbrauche?</description>
     </item>
     
     <item>
@@ -93,7 +93,7 @@ CH-6023 Rothenburg
 Kontroll Nr. K-00437
 Mess- und Prüfkontrolle - Protokoll mit Mängelliste und Sicherheitsnachweis
 Kosten
- CHF 250.00 - Einfamilienhaus bis 5 Zimmer CHF 300.00 - Einfamilienhaus mit mehr als 5 Zimmer CHF 200.00 - Eigentumswohnung bis 5 Zimmer CHF 250.00 - Eigentumswohnung mit mehr als 5 Zimmer CHF 250.00 - Mehrfamilienhaus Allgemeine Anlagen CHF 120.00 - Pro Mietwohnung CHF 140.00 - Gewerbe- und Industriegebäude pro Stunde CHF 110.</description>
+ CHF 250.00 - Einfamilienhaus bis 5 Zimmer CHF 300.00 - Einfamilienhaus mit mehr als 5 Zimmer CHF 200.00 - Eigentumswohnung bis 5 Zimmer CHF 250.00 - Eigentumswohnung mit mehr als 5 Zimmer CHF 250.00 - Mehrfamilienhaus allgemeine Anlagen CHF 120.00 - Pro Mietwohnung CHF 140.00 - Gewerbe- und Industriegebäude pro Stunde CHF 110.</description>
     </item>
     
     <item>
@@ -112,7 +112,7 @@ Kosten
       <pubDate>Mon, 23 Mar 2020 17:06:10 +0100</pubDate>
       
       <guid>https://www.etb-rothenburg.ch/services/planning/</guid>
-      <description>Wir planen einfache, dem Objekt entsprechend technisch überzeugende Elektroanlagen für
+      <description>Wir planen einfache, dem Objekt entsprechend technisch überzeugende Elektroanlagen für:
  Verwaltungsbauten Laborbauten Allgemeine Gewerbe- und Industriebauten Schulen Kirchen Alters- und Pflegestationen Wohnbauten  Wir führen für alle Projekte eine laufende Kostenkontrolle.</description>
     </item>
     

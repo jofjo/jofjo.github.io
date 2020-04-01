@@ -1,0 +1,167 @@
+@import url('../fonts/cairo/font-cairo.css');
+
+body {
+  font-family: 'Cairo', sans-serif;
+  font-size: 1vw;
+  position: relative;
+  padding-bottom: 120px;
+  min-height: 100vh;
+}
+
+footer {
+  height: 120px;
+  background-color: black;
+  padding-top: 15px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+  
+h1 {
+  font-size: 3vw;
+}
+
+h2 {
+  font-size: 2vw;
+}
+
+h3 {
+  font-size: 1.5vw;
+}
+
+.main {
+  margin-bottom: 150px;
+}
+
+.gap {
+  margin-top: 150px;
+}
+
+.gap-fix {
+  margin-top: 150px;
+}
+
+.section {
+  padding-top: 100px;
+}
+
+.services-item {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.services-icon {
+  margin: 30px;
+}
+
+.background-ref {
+  position: relative;
+  text-align: center;
+}
+
+.link-ref {
+  font-size: 3vw;
+  color: black;
+}
+
+.link-ref-centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+.bg-image-ref {
+  filter: opacity(50%) blur(3px);
+}
+
+.portrait {
+  max-width: 400px;
+  max-height: 400px;
+  margin: 50px;
+}
+
+.portrait-margin {
+  margin: 50px;
+}
+
+.contact-margin {
+  margin-top: 50px;
+}
+
+.logo {
+  max-width: 80px;
+}
+
+.impressum-link {
+  color: lightgray;
+}
+
+/*=================================================================
+  Navigation
+==================================================================*/
+.navigation {
+  background-color: black;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link {
+  color: #d83248;
+}
+
+.nav-link {
+  font-size: 1.4vw;
+  margin-left: 10px;
+}
+
+.navbar-toggler:focus {
+  outline: 0;
+}
+
+.tab-pane.active .clearfix:first-child {
+  margin-bottom: 25px;
+}
+
+/*=================================================================
+  Keep size on small screens
+==================================================================*/
+@media screen and (max-width: 1200px) {
+  h1 {
+    font-size: 36px;
+  }
+  h2 {
+      font-size: 24px;
+  }
+  .link-ref  {
+    font-size: 36px;
+  }
+}
+
+@media screen and (max-width: 1333px) {
+  h3 {
+     font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 1428px) {
+  .nav-link {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .gap {
+    margin-top: 50px;
+  }
+}
+
+@media screen and (max-width: 1800px) {
+  body {
+    font-size: 18px;
+  }
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on etb</title>
+    <link>https://www.etb-rothenburg.ch/services/</link>
+    <description>Recent content in Services on etb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 23 Mar 2020 17:07:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.etb-rothenburg.ch/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clevere Zukunft</title>
+      <link>https://www.etb-rothenburg.ch/services/future/</link>
+      <pubDate>Mon, 23 Mar 2020 17:07:10 +0100</pubDate>
+      
+      <guid>https://www.etb-rothenburg.ch/services/future/</guid>
+      <description>Die Welt verändert sich rasant. Es tauchen viele Fragen über die Technik von morgen auf. Dabei geht es meist um Systeme die mehrheitlich elektrisch funktionieren. Um vieles müssen wir uns heute Gedanken machen:
+ Werde ich in Zukunft die Haustechnik über mein Smartphone steuern? Soll ich ein Bussystem einsetzen oder reicht für mich der konventionelle Schalter aus? Ist es für mich wichtig, dass ich den Strom aus meiner Photovoltaikanlage selber verbrauche?</description>
+    </item>
+    
+    <item>
+      <title>Periodische Kontrollen</title>
+      <link>https://www.etb-rothenburg.ch/services/control/</link>
+      <pubDate>Mon, 23 Mar 2020 17:06:40 +0100</pubDate>
+      
+      <guid>https://www.etb-rothenburg.ch/services/control/</guid>
+      <description>Von Elektroinstallationen für Wohnungen, Gewerbe, Verwaltung und Industrie
+Kontroll Nr. K-00437
+Mess- und Prüfkontrolle - Protokoll mit Mängelliste und Sicherheitsnachweis
+Kosten
+ CHF 250.00 - Einfamilienhaus bis 5 Zimmer CHF 300.00 - Einfamilienhaus mit mehr als 5 Zimmer CHF 200.00 - Eigentumswohnung bis 5 Zimmer CHF 250.00 - Eigentumswohnung mit mehr als 5 Zimmer CHF 250.00 - Mehrfamilienhaus Allgemeine Anlagen CHF 120.00 - Pro Mietwohnung CHF 140.00 - Gewerbe- und Industriegebäude pro Stunde CHF 110.</description>
+    </item>
+    
+    <item>
+      <title>KNX</title>
+      <link>https://www.etb-rothenburg.ch/services/knx/</link>
+      <pubDate>Mon, 23 Mar 2020 17:06:16 +0100</pubDate>
+      
+      <guid>https://www.etb-rothenburg.ch/services/knx/</guid>
+      <description>Installationsbus-Steuerungen für Beleuchtung, Storen, Heizung, Lüftung, usw.
+ Beratung Planung Ausschreibung Parametrierung Inbetriebnahmen Dokumentation  Wir steuern einfach und effizient Ihre Anlagen.</description>
+    </item>
+    
+    <item>
+      <title>Elektroplanung</title>
+      <link>https://www.etb-rothenburg.ch/services/planning/</link>
+      <pubDate>Mon, 23 Mar 2020 17:06:10 +0100</pubDate>
+      
+      <guid>https://www.etb-rothenburg.ch/services/planning/</guid>
+      <description>Wir planen einfache, dem Objekt entsprechend technisch überzeugende Elektroanlagen für
+ Verwaltungsbauten Laborbauten Allgemeine Gewerbe- und Industriebauten Schulen Kirchen Alters- und Pflegestationen Wohnbauten  Wir führen für alle Projekte eine laufende Kostenkontrolle.</description>
+    </item>
+    
+  </channel>
+</rss>

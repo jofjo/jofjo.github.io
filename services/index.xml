@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on etb</title>
+    <title>Tätigkeitsfelder on etb</title>
     <link>https://www.etb-rothenburg.ch/services/</link>
-    <description>Recent content in Services on etb</description>
+    <description>Recent content in Tätigkeitsfelder on etb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 23 Mar 2020 17:07:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 09:35:21 +0200</lastBuildDate>
     
 	<atom:link href="https://www.etb-rothenburg.ch/services/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,7 +27,7 @@
       <pubDate>Mon, 23 Mar 2020 17:06:40 +0100</pubDate>
       
       <guid>https://www.etb-rothenburg.ch/services/control/</guid>
-      <description>Von Elektroinstallationen für Wohnungen, Gewerbe, Verwaltung und Industrie
+      <description>Kontrollen von Elektroinstallationen für Wohnungen, Gewerbe, Verwaltung und Industrie
 Kontroll Nr. K-00437
 Mess- und Prüfkontrolle - Protokoll mit Mängelliste und Sicherheitsnachweis
 Kosten

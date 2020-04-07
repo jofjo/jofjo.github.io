@@ -4,19 +4,25 @@ body {
   font-family: 'Cairo', sans-serif;
   font-size: 1vw;
   position: relative;
-  padding-bottom: 120px;
+  padding-bottom: 330px;
   min-height: 100vh;
 }
 
 footer {
-  height: 120px;
+  color: lightgray;
+  height: 330px;
   background-color: black;
   padding-top: 15px;
   position: absolute;
   bottom: 0;
   width: 100%;
 }
-  
+
+main {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
 h1 {
   font-size: 3vw;
 }
@@ -29,25 +35,16 @@ h3 {
   font-size: 1.5vw;
 }
 
-.main {
-  margin-bottom: 150px;
+.landing {
+  margin-bottom: 200px;
 }
 
-.gap {
-  margin-top: 150px;
-}
-
-.gap-fix {
-  margin-top: 150px;
-}
-
-.section {
-  padding-top: 100px;
+.landing-title-span {
+  color: #ce1a1a
 }
 
 .services-item {
-  margin-top: 20px;
-  padding-top: 20px;
+  padding-bottom: 80px;
 }
 
 .services-icon {
@@ -77,9 +74,9 @@ h3 {
 }
 
 .portrait {
-  max-width: 400px;
-  max-height: 400px;
-  margin: 50px;
+  max-width: 350px;
+  max-height: 350px;
+  margin-bottom: 30px;
 }
 
 .portrait-margin {
@@ -90,28 +87,26 @@ h3 {
   margin-top: 50px;
 }
 
-.logo {
-  max-width: 80px;
+.address {
+  color: black;
 }
 
-.impressum-link {
+.logo {
+  max-width: 60px;
+}
+
+.footer-links {
   color: lightgray;
 }
 
 /*=================================================================
   Navigation
 ==================================================================*/
+
 .navigation {
   background-color: black;
   width: 100%;
   margin-bottom: 0;
-}
-
-.navbar-dark .navbar-nav .active>.nav-link,
-.navbar-dark .navbar-nav .nav-link.active,
-.navbar-dark .navbar-nav .nav-link.show,
-.navbar-dark .navbar-nav .show>.nav-link {
-  color: #d83248;
 }
 
 .nav-link {
@@ -155,8 +150,11 @@ h3 {
 }
 
 @media screen and (max-width: 1500px) {
-  .gap {
-    margin-top: 50px;
+  main {
+    margin-top: 100px;
+  }
+  .landing {
+    margin-bottom: 100px;
   }
 }
 

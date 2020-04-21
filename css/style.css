@@ -79,8 +79,12 @@ h3 {
   margin-bottom: 30px;
 }
 
-.portrait-margin {
-  margin: 50px;
+.reference {
+  margin-top: 50px;
+}
+
+.references-block {
+  margin-bottom: 100px;
 }
 
 .contact-margin {

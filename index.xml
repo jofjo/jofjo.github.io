@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Startseite on etb</title>
@@ -50,12 +50,12 @@ Neben den planerischen Tätigkeiten bieten wir auch periodische Kontrollen von E
       <pubDate>Mon, 30 Mar 2020 10:57:27 +0200</pubDate>
       
       <guid>https://www.etb-rothenburg.ch/contact/</guid>
-      <description>Elektrotechnisches Büro
+      <description>Elektrotech Büro
 Lindauring 2
 CH-6023 Rothenburg
 041 280 81 41
 office@etb-rothenburg.ch
-Google maps </description>
+Google maps</description>
     </item>
     
     <item>
@@ -77,19 +77,19 @@ Google maps </description>
       <description>Kontrollen von Elektroinstallationen für Wohnungen, Gewerbe, Verwaltung und Industrie
 Mess- und Prüfkontrolle - Protokoll mit Mängelliste und Sicherheitsnachweis
 Kontroll Nr. K-00437
-
-Kosten (Preise inkl. 7,7 % MwSt):
- 250 CHF - Einfamilienhaus bis 5 Zimmer 300 CHF - Einfamilienhaus mit mehr als 5 Zimmer 200 CHF - Eigentumswohnung bis 5 Zimmer 250 CHF - Eigentumswohnung mit mehr als 5 Zimmer 250 CHF - Mehrfamilienhaus allgemeine Anlagen 120 CHF - Pro Mietwohnung 140 CHF - Gewerbe- und Industriegebäude pro Stunde 110 CHF - Administration pro Stunde  </description>
+Kosten (Preise inkl. 7,7 % MwSt):  250 CHF - Einfamilienhaus bis 5 Zimmer 300 CHF - Einfamilienhaus mit mehr als 5 Zimmer 200 CHF - Eigentumswohnung bis 5 Zimmer 250 CHF - Eigentumswohnung mit mehr als 5 Zimmer 250 CHF - Mehrfamilienhaus allgemeine Anlagen 120 CHF - Pro Mietwohnung 140 CHF - Gewerbe- und Industriegebäude pro Stunde 110 CHF - Administration pro Stunde  </description>
     </item>
     
     <item>
-      <title>KNX</title>
-      <link>https://www.etb-rothenburg.ch/services/knx/</link>
+      <title>Gebäudeautomation</title>
+      <link>https://www.etb-rothenburg.ch/services/smart-home/</link>
       <pubDate>Mon, 23 Mar 2020 17:06:16 +0100</pubDate>
       
-      <guid>https://www.etb-rothenburg.ch/services/knx/</guid>
-      <description>Installationsbus-Steuerungen für Beleuchtung, Storen, Heizung, Lüftung, usw.
- Beratung Planung Ausschreibung Parametrierung Inbetriebnahmen Dokumentation  Wir steuern einfach und effizient Ihre Anlagen.</description>
+      <guid>https://www.etb-rothenburg.ch/services/smart-home/</guid>
+      <description>Beleuchtung, Storen, Heizung, Lüftung&amp;hellip;
+Wir automatisieren Ihr Zuhause, ganz nach Ihren Wünschen.
+ Beratung Planung Ausschreibung Parametrierung Inbetriebnahme Dokumentation  Als Loxone Silver Partner bieten wir besten Service, alles aus einer Hand. Kontaktieren Sie uns unverbindlich.
+ </description>
     </item>
     
     <item>

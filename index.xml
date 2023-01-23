@@ -6,11 +6,7 @@
     <description>Recent content in Startseite on etb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 22 Mar 2020 13:23:23 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.etb-rothenburg.ch/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 22 Mar 2020 13:23:23 +0100</lastBuildDate><atom:link href="https://www.etb-rothenburg.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impressum</title>
       <link>https://www.etb-rothenburg.ch/legaldetails/</link>
@@ -69,15 +65,13 @@ Google maps</description>
     </item>
     
     <item>
-      <title>Periodische Kontrollen</title>
-      <link>https://www.etb-rothenburg.ch/services/control/</link>
+      <title>Engineering</title>
+      <link>https://www.etb-rothenburg.ch/services/engineering/</link>
       <pubDate>Mon, 23 Mar 2020 17:06:40 +0100</pubDate>
       
-      <guid>https://www.etb-rothenburg.ch/services/control/</guid>
-      <description>Kontrollen von Elektroinstallationen für Wohnungen, Gewerbe, Verwaltung und Industrie
-Mess- und Prüfkontrolle - Protokoll mit Mängelliste und Sicherheitsnachweis
-Kontroll Nr. K-00437
-Kosten (Preise inkl. 7,7 % MwSt):  250 CHF - Einfamilienhaus bis 5 Zimmer 300 CHF - Einfamilienhaus mit mehr als 5 Zimmer 200 CHF - Eigentumswohnung bis 5 Zimmer 250 CHF - Eigentumswohnung mit mehr als 5 Zimmer 250 CHF - Mehrfamilienhaus allgemeine Anlagen 120 CHF - Pro Mietwohnung 140 CHF - Gewerbe- und Industriegebäude pro Stunde 110 CHF - Administration pro Stunde  </description>
+      <guid>https://www.etb-rothenburg.ch/services/engineering/</guid>
+      <description>Wir zeichnen uns durch unsere mehrjährige Erfahrung in der Produktentwicklung aus. Wesentlich in der Softwareentwicklung im Bereich von automatisierten Prozessen. Die Zusammenarbeit in einem mechatronischen Umfeld steht dabei im Zentrum. Das Pflegen von Schnittstellen und Testszenarien sind ebenso wichtig wie das frühzeitige Definieren von Use-Cases und dem Erstellen des vollständigen Pflichtenhefts. Mit guter Kommunikation und grosser Sorgfalt zum Produkt entstehen so vielversprechende und zukunftsorientierte Lösungen.
+Wir freuen uns auf Ihre Kontaktaufnahme.</description>
     </item>
     
     <item>

@@ -6,10 +6,6 @@
     <description>Recent content in Aktuell on etb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 03 Jun 2020 18:56:48 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.etb-rothenburg.ch/actual/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 03 Jun 2020 18:56:48 +0200</lastBuildDate><atom:link href="https://www.etb-rothenburg.ch/actual/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
